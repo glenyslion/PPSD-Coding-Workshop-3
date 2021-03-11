@@ -19,3 +19,7 @@ Untuk belajar tentang cara menggunakan Colab dapat mengunjungi link berikut ini:
 
 # Data
 
+# References
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+- https://seaborn.pydata.org/
+- https://www.kaggle.com/learn/data-visualization
