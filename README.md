@@ -3,3 +3,19 @@ Untuk workshop kali ini, kita akan menggunakan Colab, yaitu notebook berbasis cl
 - Notebook tanpa jawaban: 
 
 Untuk belajar tentang cara menggunakan Colab dapat mengunjungi link berikut ini: https://colab.research.google.com/notebooks/welcome.ipynb?hl=id
+
+# Table of Contents
+- Fungsi Data Visualization
+- Apa itu Matplotlib dan Seaborn?
+- Menginstall Seaborn
+- Menggunakan Seaborn
+- Basic Plotting Using Matplotlib
+- Line Chart
+- Bar Chart
+- Heat Map
+- Scatter Plot
+- Histogram dan Density Plot
+- Boxplot
+
+# Data
+
