@@ -24,7 +24,6 @@ Untuk belajar tentang cara menggunakan Colab dapat mengunjungi link berikut ini:
 - plt.plot
 - plt.show
 - plt.figure
-- pd.read_csv
 - plt.title
 - plt.xlabel
 - plt.ylabel
