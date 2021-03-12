@@ -20,6 +20,26 @@ Untuk belajar tentang cara menggunakan Colab dapat mengunjungi link berikut ini:
 - Histogram dan Density Plot
 - Boxplot
 
+# Syntax yang digunakan
+- plt.plot
+- plt.show
+- plt.figure
+- pd.read_csv
+- plt.title
+- plt.xlabel
+- plt.ylabel
+- sns.countplot
+- sns.lineplot
+- sns.barplot
+- sns.heatmap
+- sns.regplot
+- sns.scatterplot
+- sns.lmplot
+- sns.swarmplot
+- sns.kdeplot
+- sns.distplot
+- sns.boxplot
+
 # Data
 Data yang akan digunakan dalam workshop kali ini diperoleh dari [Kaggle](https://www.kaggle.com/).
 
